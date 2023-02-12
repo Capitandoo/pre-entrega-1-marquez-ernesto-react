@@ -11,7 +11,7 @@ const Navbar = () => {
                 <Categorias />
                 <CartWidget>
                     <img src = {carrito} alt = "" className="imgCarrito"></img>
-                    <h2 className="seeTexto">carritodecompras</h2>
+                    <h2 className="seeTexto">0</h2>
                 </CartWidget>
             </nav>
         </div>
